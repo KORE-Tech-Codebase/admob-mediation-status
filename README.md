@@ -1,17 +1,21 @@
-# ADMOB MEDIATOR STATUS
+AdMob Mediation Status
 
 
-
-# META STATUS
-- Need NTN for payout info
-
-
-# Applovin
-- Isnt accepting new publishers account
+Meta Audience Network
+- Status: Pending
+- Requirement: NTN is required to complete the payout information.
 
 
-# Mintegral
-- Will let us know through email
+AppLovin
+- Status: Currently unavailable
+- AppLovin is not accepting new publisher accounts at the moment.
 
-# Unity 
-- Working
+
+Mintegral
+- Status: Pending
+- Mintegral will provide an update via email.
+
+
+Unity Ads
+- Status: Working
+- Unity Ads mediation is currently working.
